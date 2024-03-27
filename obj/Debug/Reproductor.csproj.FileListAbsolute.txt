@@ -1,0 +1,119 @@
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.Ventanas.Login.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.Principal.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ayuda.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Reproductor.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\bin\Debug\MACTrackBarLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Mio\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\MACTrackBarLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Login.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ayuda.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Principal.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Música.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\taglib-sharp.dll
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ecualizador.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Lista.resources
+C:\Users\Familia Dias\Desktop\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Sugerencias.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\MACTrackBarLib.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\taglib-sharp.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.SuggestedBindingRedirects.cache
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Login.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ayuda.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ecualizador.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Lista.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Música.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Sugerencias.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Principal.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+D:\Leonardo PC\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\MACTrackBarLib.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\taglib-sharp.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.SuggestedBindingRedirects.cache
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Login.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ayuda.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ecualizador.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Lista.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Música.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Sugerencias.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Principal.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+D:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\MACTrackBarLib.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\taglib-sharp.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.SuggestedBindingRedirects.cache
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Login.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ayuda.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Ecualizador.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Lista.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Música.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Ventanas.Paneles.Sugerencias.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Principal.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+E:\Leonardo PC\Estudios\Univesidad UPN\Ciclos\Ciclo 2021-2 (Agosto-Diciembre) (2021)\Estructura de Datos\Proyecto final\Repruductor de musica\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
